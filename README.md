@@ -14,4 +14,4 @@ an electric current passes through it.
   
 2 ) Building the circuit:
 
-_Step 1_ *Step 1*
+_Step 1_ *Step 1* ~Step 1~
