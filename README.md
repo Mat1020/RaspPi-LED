@@ -12,6 +12,6 @@ an electric current passes through it.
 - Raspberry Pi
 - Micro SD Card
   
-2) Building the circuit:
+2 ) Building the circuit:
 
- 
+_Step 1_ *Step 1*
