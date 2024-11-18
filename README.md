@@ -40,17 +40,21 @@ from gpiozero import LED
 </pre>
 
 Create a variable named "led" and attach the "LED(17)" value to it:
-
-<>	*led = LED(17)*
+<pre>
+led = LED(17)
+</pre>
 
 The 'led.on()' method turns on the LED:
-
-<>	*led.on()*
-
+<pre>
+led.on()
+</pre>
+   
 The 'led.off()' method turnd off the LED:
-
-<>	*led.off()*
+<pre>
+led.off()
+</pre>
 
 The 'led.toggle()' method changes based on the current state of the LED. If the LED is on it will turn it off, and if the LED is off it will turn it on:
-
-<>	*led.toggle()*
+<pre>
+led.toggle()
+</pre>
