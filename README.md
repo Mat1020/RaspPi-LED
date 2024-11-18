@@ -33,3 +33,6 @@ _Step 6:_
    Grab your resistor and connect it to the positive row and the 25 column (Right Side)
 
 3 ) Set Up the Code:
+
+You need to import the LED module on Python:
+   from 
