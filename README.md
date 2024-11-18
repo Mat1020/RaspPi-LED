@@ -2,7 +2,7 @@
 LED stands for Light Emitting Diode, and it's a semiconductor device that emits light when
 an electric current passes through it.
 
-## Tutorial 1: Make an LED blink
+## Tutorial 1: Make an LED blink (in Python)
 1 ) Materials:
    
 - 1x LED
@@ -18,21 +18,39 @@ _Step 1:_
 Connect one of the female/male jumper to the GND pin
  
 _Step 2:_
-   Connect another female/male jumper to the GPIO 17 pin
+Connect another female/male jumper to the GPIO 17 pin
 
 _Step 3:_ 
-   Connect the GND jumper to the negative row of the breadboard (Right Side)
+Connect the GND jumper to the negative row of the breadboard (Right Side)
 
 _Step 4:_
-   Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
+Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
 
 _Step 5:_
-   Grab your LED and connect it to the negative row and the other leg to the 25 column (Right side)
+Grab your LED and connect it to the negative row and the other leg to the 25 column (Right side)
 
 _Step 6:_
-   Grab your resistor and connect it to the positive row and the 25 column (Right Side)
+Grab your resistor and connect it to the positive row and the 25 column (Right Side)
 
 3 ) Set Up the Code:
 
-You need to import the LED module on Python:
-   from 
+You need to import the LED module:
+		
+from gpiozero import LED
+
+Create a variable named "led" and attach the "LED(17)" value to it:
+
+led = LED(17)
+
+The 'led.on()' method turns on the LED:
+
+led.on()
+
+
+The 'led.off()' method turnd off the LED:
+
+led.off()
+
+The 'led.toggle()' method changes based on the current state of the LED. If the LED is on it will turn it off, and if the LED is off it will turn it on:
+
+led.toggle()
