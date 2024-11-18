@@ -36,7 +36,7 @@ Grab your resistor and connect it to the positive row and the 25 column (Right S
 
 You need to import the LED module:
 <pre>
-	*from gpiozero import LED*
+from gpiozero import LED
 </pre>
 
 Create a variable named "led" and attach the "LED(17)" value to it:
