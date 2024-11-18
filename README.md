@@ -15,22 +15,21 @@ an electric current passes through it.
 2 ) Building the Circuit:
 
 _Step 1:_ 
-Connect one of the female/male jumper to the GND pin
+   Connect one of the female/male jumper to the GND pin
  
 _Step 2:_
-Connect another female/male jumper to the GPIO 17 pin
+   Connect another female/male jumper to the GPIO 17 pin
 
 _Step 3:_ 
-Connect the GND jumper to the negative row of the breadboard (Right Side)
+   Connect the GND jumper to the negative row of the breadboard (Right Side)
 
 _Step 4:_
-Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
+   Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
 
 _Step 5:_
-Grab your LED and connect it to the negative row and the other leg to the 25 column (Right side)
+   Grab your LED and connect it to the negative row and the other leg to the 25 column (Right side)
 
 _Step 6:_
-Grab your resistor and connect it to the positive row and the 25 column (Right Side)
+   Grab your resistor and connect it to the positive row and the 25 column (Right Side)
 
-
-Now you're ready to code!
+3 ) Set Up the Code:
