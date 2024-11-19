@@ -62,3 +62,4 @@ led.toggle()
 4 ) My Programs:
 
 A. led_flash.py
+This file is making the LED blink for 5 times while having short sleeps.
