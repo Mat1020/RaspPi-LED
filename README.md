@@ -27,7 +27,7 @@ _Step 4:_ <br>
 Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
 
 _Step 5:_ <br>
-Grab your LED and connect it to the negative row and the other leg to the 25 column (Right side)
+Grab your LED and connect it to the negative row and the 25 column (Right side)
 
 _Step 6:_ <br>
 Grab your resistor and connect it to the positive row and the 25 column (Right Side)
@@ -49,12 +49,12 @@ The 'led.on()' method turns on the LED:
 led.on()
 </pre>
    
-The 'led.off()' method turnd off the LED:
+The 'led.off()' method turns off the LED:
 <pre>
 led.off()
 </pre>
 
-The 'led.toggle()' method changes based on the current state of the LED. If the LED is on it will turn it off, and if the LED is off it will turn it on:
+The 'led.toggle()' method turns on if it was off and vice versa:
 <pre>
 led.toggle()
 </pre>
