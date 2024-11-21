@@ -59,7 +59,7 @@ The 'led.toggle()' method turns on if it was off and vice versa:
 led.toggle()
 </pre>
 
-4 ) My Programs:
+4 ) My Program Examples:
 
 A. led_flash.py <br>
 This Python script is making the LED blink (turn on and off) for 5 times with a 0.5-second sleep in between. 
