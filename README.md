@@ -17,19 +17,19 @@ an electric current passes through it.
 **Step 1:** <br>
 Connect one of the female/male jumper to the GND pin
  
-_Step 2:_ <br>
+**Step 2:** <br>
 Connect another female/male jumper to the GPIO 17 pin
 
-_Step 3:_ <br>
+**Step 3:** <br>
 Connect the GND jumper to the negative row of the breadboard (Right Side)
 
-_Step 4:_ <br>
+**Step 4:** <br>
 Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
 
-_Step 5:_ <br>
+**Step 5:** <br>
 Grab your LED and connect it to the negative row and the 25 column (Right side)
 
-_Step 6:_ <br>
+**Step 6:** <br>
 Grab your resistor and connect it to the positive row and the 25 column (Right Side)
 
 3 ) Set Up the Code:
