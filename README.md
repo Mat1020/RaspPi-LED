@@ -14,7 +14,7 @@ an electric current passes through it.
   
 2 ) Building the Circuit:
 
-_Step 1:_ <br>
+**Step 1:** <br>
 Connect one of the female/male jumper to the GND pin
  
 _Step 2:_ <br>
