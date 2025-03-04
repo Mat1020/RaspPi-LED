@@ -1,5 +1,5 @@
 # Controlling (any color) LED with Raspberry Pi GPIO
-A repo to control any color of LED or more than one LED with the Raspberry Pi.
+A repo to control any color or more than one LED with the Raspberry Pi.
 
 This repo will teach and guide you about everything you need to know abou the LEDs.
 
