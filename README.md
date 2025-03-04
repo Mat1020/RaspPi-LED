@@ -1,7 +1,7 @@
 # Controlling (any color) LED with Raspberry Pi GPIO
 A repo to control any color or more than one LED with the Raspberry Pi.
 
-This repo will teach and guide you about everything you need to know abou the LEDs.
+This repo will teach and guide you about everything you need to know about LEDs, from how to get started with LEDs with your Raspberry Pi in a begginer project, to how to do fancy stuff with LEDs with your Raspberry Pi step-by-step. 
 
 # What is a LED?
 LED stands for Light Emitting Diode, and it's a semiconductor device that emits light when
