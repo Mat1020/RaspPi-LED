@@ -7,6 +7,9 @@ Star this repo, as it will come in handy! Many information and knowledge here is
 
 Without any further do, let's dive in! :D
 
+## Overview
+The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it.
+
 # What is a LED?
 LED stands for Light Emitting Diode, and it's a semiconductor device that emits light when
 an electric current passes through it.
