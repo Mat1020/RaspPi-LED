@@ -10,6 +10,8 @@ Without any further do, let's dive in! :D
 ## Overview
 The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it.
 
+There are different types of folders in this repo, for different purposes. You can click on one of the folders: it tells you what materials you need, follow the steps and copy the code to your Raspberry Pi.
+
 # What is a LED?
 LED stands for Light Emitting Diode, and it's a semiconductor device that emits light when
 an electric current passes through it.
