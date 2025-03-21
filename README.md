@@ -36,7 +36,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 - Micro SD Card
 - Breadboard
   
-2 ) Building the Circuit:
+## Building Up the Circuit:
 
 **Step 1:** <br>
 Connect one of the female/male jumper to the GND pin
