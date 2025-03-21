@@ -9,7 +9,8 @@ Without any further do, let's dive in! :D
 **<u>What is an LED?</u>** <br>
 The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it. LEDs are used for various purpose, including: lighting fixtures, displays, automotive lighting, and even medical equipment because due to their energy efficiency, long lifespan, and versatility.
 
-There are different types of folders in this repo, for different purposes. You can click on one of the folders: it tells you what materials you need, follow the steps and copy the code to your Raspberry Pi.
+**<u>What does GPIO stand for?</u>** <br>
+Raspberry Pi GPIO pins stand for General Purpose Input/Output_.
 
 # What is a LED?
 LED stands for Light Emitting Diode, and it's a semiconductor device that emits light when
