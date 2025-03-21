@@ -6,13 +6,13 @@ This repositorie should be compadable to every version of Raspberry Pi.
 Without any further do, let's dive in! :D
 
 ## Overview
-**What is an LED? What are LEDs used for?** <br>
+➢ **What is an LED? What are LEDs used for?** <br>
 The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it. LEDs are used for various purposes, including: lighting fixtures, displays, automotive lighting, and even medical equipment because due to their energy efficiency, long lifespan, and versatility.
 
-**What does GPIO stand for?** <br>
+➢ **What does GPIO stand for?** <br>
 Raspberry Pi GPIO pins stand for _General Purpose Input/Output_. They are used to connect with the outside world and physical objects, and they are located on the edge of the Raspberry Pi board.
 
-**Summary** <br>
+➢ **Summary** <br>
 We're going to use the Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
 
@@ -31,7 +31,7 @@ In the blank, type your Raspberry Pi version.
 For example, this Raspberry Pi GPIO pinout diagram correspons to **Raspberry Pi 4** (I couldn't find the orginal image):
 ![cc865253-a2ad-47f6-84ac-4d4b0d6870e1](https://github.com/user-attachments/assets/89ba31d4-9e08-4d9a-b6da-f717cf7cc9cb)
 
-**LED Layout** <br>
+➢ **LED Layout** <br>
 As you may have noticed or not, LEDs have two legs corresponding to either negative energy or positive energy. The **positive** leg is usually the one who is the **longest**, and the **negative** is the **shortest**. Below, there's an image showing what leg correspons to:
 ![db2e19eb-96a6-4caa-ba82-68efb21a3f36](https://github.com/user-attachments/assets/39a64e84-8301-4dfa-8065-61fde7802af4)
 
