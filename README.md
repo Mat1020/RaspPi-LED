@@ -25,14 +25,16 @@ This project is making the LED blink (turns on and off) for 5 times with a 0.5-s
 
 Keep in mind that **you should play and mess with it**, meaning that **you should be changing stuff (after you are done with the project) to explore and discover more**. 
 
-1) Materials:
-   
+## Materials
+**Components** <br>
 - 1x LED
 - 2x Female/Male Jumpers
-- 1x Resistor 100 ohn
-- Breadboard
+- 1x 100 ohm Resistor
+
+**Tools/Equipment** <br>
 - Raspberry Pi
 - Micro SD Card
+- Breadboard
   
 2 ) Building the Circuit:
 
