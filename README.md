@@ -13,7 +13,7 @@ The LED is short for Light Emitting Diode, and it's a semiconductor device that 
 Raspberry Pi GPIO pins stand for _General Purpose Input/Output_. They are used to connect with the outside world and physical objects, and they are located on the edge of the Raspberry Pi board.
 
 **Summary** <br>
-We're going to use Raspberry the Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
+We're going to use the Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
 ## Table of Contents
 You can click on the link to go to the project you're interested in. The projects go from **easiest** to **hardest**:
