@@ -42,7 +42,9 @@ Before connecting and setting anything yet, we need to understand what the pinou
 
 You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search:
 
-**___________________ gpio pinout**
+<pre>
+___________________ gpio pinout
+</pre>
 
 In the blank, type your Raspberry Pi version.
 
