@@ -43,7 +43,7 @@ Before connecting and setting anything yet, we need to understand what the pinou
 You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search:
 
 <pre>
-___________________ gpio pinout
+________________ gpio pinout
 </pre>
 
 In the blank, type your Raspberry Pi version.
@@ -53,25 +53,13 @@ In the blank, type your Raspberry Pi version.
 
 2. Connect another Female/Male Jumper to the GND pin.
 
-3. Connect the GND jumper to the negative row of the breadboard (Right Side)
+3. Connect the GND jumper to the negative row of the breadboard (Right Side).
 
-**Step 1:** <br>
-Connect one of the female/male jumper to the GND pin
- 
-**Step 2:** <br>
-Connect another female/male jumper to the GPIO 17 pin
+4. Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side).
 
-**Step 3:** <br>
-Connect the GND jumper to the negative row of the breadboard (Right Side)
+5. Grab your LED and connect it to the negative row and the 25 column (Right side).
 
-**Step 4:** <br>
-Connect the GPIO 17 jumper to the positive row of the breadboard (Right Side)
-
-**Step 5:** <br>
-Grab your LED and connect it to the negative row and the 25 column (Right side)
-
-**Step 6:** <br>
-Grab your resistor and connect it to the positive row and the 25 column (Right Side)
+6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
 
 3 ) Set Up the Code:
 
