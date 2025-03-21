@@ -37,6 +37,8 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 - Breadboard
   
 ## Building Up the Circuit:
+**Raspberry Pi GPIO Pinout Diagram** <br>
+Before connecting and setting anything yet, we need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name** of the pins and  **information about the functions of each pin**. Below, you can see  
 
 **Step 1:** <br>
 Connect one of the female/male jumper to the GND pin
