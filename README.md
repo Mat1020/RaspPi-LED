@@ -51,6 +51,10 @@ In the blank, type your Raspberry Pi version.
 ## Bulding Up the Circuit
 1. Connect one of the Female/Male Jumper to the GND pin.
 
+2. Connect another Female/Male Jumper to the GND pin.
+
+3. Connect the GND jumper to the negative row of the breadboard (Right Side)
+
 **Step 1:** <br>
 Connect one of the female/male jumper to the GND pin
  
