@@ -17,7 +17,7 @@ We're going to use the Raspberry Pi GPIO pins to control the LED(s). We're going
 
 
 ## BEFORE Building Up the Circuit
-**Raspberry Pi GPIO Pinout Diagram** <br>
+➢**Raspberry Pi GPIO Pinout Diagram** <br>
 Before connecting and setting anything yet, you need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
 
 You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search:
