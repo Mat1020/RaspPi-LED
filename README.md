@@ -71,7 +71,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 
 6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
 
-3 ) Set Up the Code:
+## Programming the Code
 
 You need to import the LED module:
 <pre>
