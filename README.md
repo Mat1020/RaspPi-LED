@@ -22,7 +22,7 @@ You can click on the link to go to the project you're interested in. The project
 
 ## BEFORE Building Up the Circuit
 **Raspberry Pi GPIO Pinout Diagram** <br>
-Before connecting and setting anything yet, we need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
+Before connecting and setting anything yet, you need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
 
 You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search:
 
