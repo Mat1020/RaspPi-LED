@@ -23,7 +23,7 @@ You can click on the link to go to the project you're interested in. The project
 # Project #1: Make an LED Blink
 This project is making the LED blink (turns on and off) for 5 times with a 0.5-second sleep in between. This project is great for begginers who want to get stated into using their Raspberry Pi into awesome project ideas. 
 
-Keep in mind that **you should play and mess with it**, meaning that **you should be changing stuff (after you are done with the project) to explore more and discover**. 
+Keep in mind that **you should play and mess with it**, meaning that **you should be changing stuff (after you are done with the project) to explore and discover more**. 
 
 1) Materials:
    
