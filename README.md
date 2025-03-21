@@ -15,6 +15,9 @@ Raspberry Pi GPIO pins stand for _General Purpose Input/Output_.
 **Summary** <br>
 We're going to use Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
+## Table of Contents
+You can click on the link to go to the project you're insterested in. The projects go from **easiest** to **hardest**.
+
 ## Tutorial 1: Make an LED blink (in Python)
 1 ) Materials:
    
