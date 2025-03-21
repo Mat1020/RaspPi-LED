@@ -18,6 +18,8 @@ We're going to use Raspberry Pi GPIO pins to control the LED(s). We're going to 
 ## Table of Contents
 You can click on the link to go to the project you're insterested in. The projects go from **easiest** to **hardest**:
 
+- Project #1: Make an LED Blink
+
 ## Tutorial 1: Make an LED blink (in Python)
 1 ) Materials:
    
