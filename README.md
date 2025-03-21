@@ -15,10 +15,6 @@ Raspberry Pi GPIO pins stand for _General Purpose Input/Output_. They are used t
 **Summary** <br>
 We're going to use the Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
-## Table of Contents
-You can click on the link to go to the project you're interested in. The projects go from **easiest** to **hardest**.
-
-- [Project #1: Make an LED Blink](#project-1-make-an-led-blink)
 
 ## BEFORE Building Up the Circuit
 **Raspberry Pi GPIO Pinout Diagram** <br>
@@ -38,6 +34,11 @@ For example, this Raspberry Pi GPIO pinout diagram correspons to **Raspberry Pi 
 **LED Layout** <br>
 As you may have noticed or not, LEDs have two legs corresponding to either negative energy or positive energy. The **positive** leg is usually the one who is the **longest**, and the **negative** is the **shortest**. Below, there's an image showing what leg correspons to:
 ![db2e19eb-96a6-4caa-ba82-68efb21a3f36](https://github.com/user-attachments/assets/39a64e84-8301-4dfa-8065-61fde7802af4)
+
+## Table of Contents
+You can click on the link to go to the project you're interested in. The projects go from **easiest** to **hardest**.
+
+- [Project #1: Make an LED Blink](#project-1-make-an-led-blink)
 
 # Project #1: Make an LED Blink
 This project is making the LED blink (turns on and off) for 5 times with a 0.5-second sleep in between. This project is great for begginers who want to get stated into using their Raspberry Pi into awesome project ideas. 
