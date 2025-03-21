@@ -40,7 +40,10 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 **Raspberry Pi GPIO Pinout Diagram** <br>
 Before connecting and setting anything yet, we need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name** of each pin and  **information about the functions of each pin**.
 
-You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search: **________ gpio pinout**
+You can find your Raspberry Pi GPIO pinout diagram by typing in your broswer search:
+
+**________ gpio pinout**
+
 In the blank, type your Raspberry Pi version.
 
 
