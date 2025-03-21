@@ -59,7 +59,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 - Breadboard
   
 ## Bulding Up the Circuit
-***Note:*** You may want to consider to look at [BEFORE Building Up the Circuit](#before-building-up-the-circuit)
+***Note:*** You may want to consider to look at [BEFORE Building Up the Circuit](#before-building-up-the-circuit) first.
 
 1. Connect one of the Female/Male Jumper to the GND pin.
 
@@ -74,6 +74,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
 
 ## Programming the Code
+For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
 
 You need to import the LED module:
 <pre>
