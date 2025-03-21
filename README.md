@@ -48,7 +48,7 @@ ________________ gpio pinout
 
 In the blank, type your Raspberry Pi version.
 
-For example, the Raspberry Pi GPIO pinout diagrams correspons to **Raspberry Pi 4**:
+For example, this Raspberry Pi GPIO pinout diagram correspons to **Raspberry Pi 4** (I couldn't find the orginal image):
 ![cc865253-a2ad-47f6-84ac-4d4b0d6870e1](https://github.com/user-attachments/assets/89ba31d4-9e08-4d9a-b6da-f717cf7cc9cb)
 
 **LED Layout** <br>
