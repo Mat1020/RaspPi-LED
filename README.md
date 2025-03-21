@@ -7,7 +7,7 @@ Without any further do, let's dive in! :D
 
 ## Overview
 ➢ **What is an LED? What are LEDs used for?** <br>
-The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it. LEDs are used for various purposes, including: lighting fixtures, displays, automotive lighting, and even medical equipment because due to their energy efficiency, long lifespan, and versatility.
+The LED is short for Light Emitting Diode, and it's a semiconductor device that emits light when an electric current passes through it. LEDs are used for various purposes, including: lighting fixtures, displays, automotive lighting, and even medical equipment due to their energy efficiency, long lifespan, and versatility.
 
 ➢ **What does GPIO stand for?** <br>
 Raspberry Pi GPIO pins stand for _General Purpose Input/Output_. They are used to connect with the outside world and physical objects, and they are located on the edge of the Raspberry Pi board.
