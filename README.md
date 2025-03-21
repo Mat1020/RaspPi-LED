@@ -20,22 +20,6 @@ You can click on the link to go to the project you're interested in. The project
 
 - [Project #1: Make an LED Blink](#project-1-make-an-led-blink)
 
-# Project #1: Make an LED Blink
-This project is making the LED blink (turns on and off) for 5 times with a 0.5-second sleep in between. This project is great for begginers who want to get stated into using their Raspberry Pi into awesome project ideas. 
-
-Keep in mind that **you should play and mess with it**, meaning that **you should be changing stuff (after you are done with the project) to explore and discover more**. 
-
-## Materials
-**Components** <br>
-- 1x LED
-- 2x Female/Male Jumpers
-- 1x 100 ohm Resistor
-
-**Tools/Equipment** <br>
-- Raspberry Pi
-- Micro SD Card
-- Breadboard
-  
 ## BEFORE Building Up the Circuit
 **Raspberry Pi GPIO Pinout Diagram** <br>
 Before connecting and setting anything yet, we need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
@@ -55,9 +39,22 @@ For example, this Raspberry Pi GPIO pinout diagram correspons to **Raspberry Pi 
 As you may have noticed or not, LEDs have two legs corresponding to either negative energy or positive energy. The **positive** leg is usually the one who is the **longest**, and the **negative** is the **shortest**. Below, there's an image showing what leg correspons to:
 ![db2e19eb-96a6-4caa-ba82-68efb21a3f36](https://github.com/user-attachments/assets/39a64e84-8301-4dfa-8065-61fde7802af4)
 
+# Project #1: Make an LED Blink
+This project is making the LED blink (turns on and off) for 5 times with a 0.5-second sleep in between. This project is great for begginers who want to get stated into using their Raspberry Pi into awesome project ideas. 
 
+Keep in mind that **you should play and mess with it**, meaning that **you should be changing stuff (after you are done with the project) to explore and discover more**. 
 
+## Materials
+**Components** <br>
+- 1x LED
+- 2x Female/Male Jumpers
+- 1x 100 ohm Resistor
 
+**Tools/Equipment** <br>
+- Raspberry Pi
+- Micro SD Card
+- Breadboard
+  
 ## Bulding Up the Circuit
 1. Connect one of the Female/Male Jumper to the GND pin.
 
