@@ -12,7 +12,8 @@ The LED is short for Light Emitting Diode, and it's a semiconductor device that 
 **What does GPIO stand for?** <br>
 Raspberry Pi GPIO pins stand for _General Purpose Input/Output_.
 
-Our 
+**Summary** <br>
+We're going to use Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
 ## Tutorial 1: Make an LED blink (in Python)
 1 ) Materials:
