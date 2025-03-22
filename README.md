@@ -16,7 +16,7 @@ Raspberry Pi GPIO pins stand for _General Purpose Input/Output_. They are used t
 We're going to use the Raspberry Pi GPIO pins to control the LED(s). We're going to use gpiozero module from Python to write the code, and we're going to need basic materials for the projects.
 
 
-## BEFORE Building Up the Circuit
+## Layouts
 ➢ **Raspberry Pi GPIO Pinout Diagram** <br>
 Before connecting and setting anything yet, you need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
 
@@ -59,7 +59,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 - Breadboard
   
 ## Bulding Up the Circuit
-***Note:*** You may want to consider to look at [BEFORE Building Up the Circuit](#before-building-up-the-circuit) first.
+***Note:*** You may want to consider to look at [BEFORE Building Up the Circuit](#layouts) first.
 
 1. Connect one of the Female/Male Jumper to the GND pin.
 
