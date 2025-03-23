@@ -66,7 +66,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 
 1. Connect one of the Female/Male Jumper to the GND pin.
 
-2. Connect another Female/Male Jumper to the GND pin.
+2. Connect another Female/Male Jumper to the GPIO 17 pin.
 
 3. Connect the GND jumper to the negative row of the breadboard (Right Side).
 
