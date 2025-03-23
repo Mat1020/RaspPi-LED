@@ -80,7 +80,9 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 ➢ **Explanation** <br>
 This circuit is simple enough to visually see what is going on, but there are still some things that I'd like to point out to explain a little bit more.
 
-As you can notice, we're using two different engeries (positive, negative) to light up the LED, but there's a resistor in one of the engergy wires. This is because the LED can't handle all the energy, meaning that it would damage the LED, possible leading to not working. Instead, we use a resistor (type of resistor depends on the resistance, power rating, and other factors of the circuit) to limit the current flowing through the LED. 
+As you can notice, the LED is connected to positive and negative energies to light up the LED, but there's a resistor in the way of one of the energies. This is because **the LED can't handle all the energy, meaning that it would damage the LED**, possible leading to not working. Instead, use a **resistor** (type of resistor depends on the resistance, power rating, and other factors of the circuit) **to limit the current flowing through the LED**.
+
+From the Raspberry Pi GPIO Pins, 
 
 ## Programming the Code
 For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
