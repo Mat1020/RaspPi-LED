@@ -34,14 +34,13 @@ ________________ gpio pinout
 In the blank, type your Raspberry Pi version.
 
 For example, this Raspberry Pi GPIO pinout diagram correspons to **Raspberry Pi 4** (I couldn't find the orginal image):
-![Final Circuit](images/raspberry_pi_4.png)
-![cc865253-a2ad-47f6-84ac-4d4b0d6870e1](https://github.com/user-attachments/assets/89ba31d4-9e08-4d9a-b6da-f717cf7cc9cb)
+![Raspberry Pi 4 GPIO Pinout](images/raspberry_pi_4.png)
 
 ➢ **LED Layout** <br>
 As you may have noticed or not, LEDs have two legs corresponding to either negative energy or positive energy. The **positive** leg is usually the one who is the **longest**, and the **negative** is the **shortest**. 
 
 Below, there's an image showing what leg correspons to:
-![db2e19eb-96a6-4caa-ba82-68efb21a3f36](https://github.com/user-attachments/assets/39a64e84-8301-4dfa-8065-61fde7802af4)
+![LED Layout](images/led_layout.png)
 
 # Project #1: Make an LED Blink
 This project is making the LED blink (turns on and off) for 5 times with a 0.5-second sleep in between. This project is great for begginers who want to get stated into using their Raspberry Pi into awesome project ideas. 
