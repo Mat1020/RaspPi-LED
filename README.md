@@ -59,7 +59,7 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 - Breadboard
   
 ## Bulding Up the Circuit
-***Note:*** You may want to consider to look at [BEFORE Building Up the Circuit](#layouts) first.
+***Note:*** You may want to do this [BEFORE Building Up the Circuit](#layouts).
 
 1. Connect one of the Female/Male Jumper to the GND pin.
 
