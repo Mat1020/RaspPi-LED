@@ -20,7 +20,6 @@ You can click on the link to go to the project you're interested in. The project
 
 - [Project #1: Make an LED Blink](#project-1-make-an-led-blink)
 
-
 ## Layouts
 ➢ **Raspberry Pi GPIO Pinout Diagram** <br>
 Before connecting and setting anything yet, you need to understand what the pinout of your Raspberry Pi is. The Raspberry Pi GPIO pinout diagram shows you the **name of each pin** and  **information about the functions of each pin**.
@@ -82,7 +81,7 @@ This circuit is simple enough to visually see what is going on, but there are st
 
 As you can notice, the LED is connected to positive and negative energies to light up the LED, but there's a resistor in the way of one of the energies. This is because **the LED can't handle all the energy, meaning that it would damage the LED**, possible leading to not working. Instead, use a **resistor** (type of resistor depends on the resistance, power rating, and other factors of the circuit) **to limit the current flowing through the LED**.
 
-From the Raspberry Pi GPIO Pins, 
+From the Raspberry Pi GPIO Pins, we're using GND and GPIO 17 pins. The GND pin stand for _ground pin_, which it basicly means it's a **power scource**. In contrast, the GPIO 17 pin can be used for **multiple functions**. It can be used for 
 
 ## Programming the Code
 For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
