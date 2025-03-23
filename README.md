@@ -61,8 +61,10 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 ## Bulding Up the Circuit
 ***Note:*** You may want to do this [BEFORE Building Up the Circuit](#layouts).
 
-**Final Circuit** <br>
+➢ **Final Circuit** <br>
 ![Project #1 Final Circuit](images/project1/final_circuit.png)
+
+➢ **Building** <br>
 
 1. Connect one of the Female/Male Jumper to the GND pin.
 
