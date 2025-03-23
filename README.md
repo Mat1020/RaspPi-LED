@@ -65,7 +65,6 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 ![Project #1 Final Circuit](images/project1/final_circuit.png)
 
 ➢ **Building** <br>
-
 1. Connect one of the Female/Male Jumper to the GND pin.
 
 2. Connect another Female/Male Jumper to the GPIO 17 pin.
@@ -77,6 +76,9 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 5. Grab your LED and connect it to the negative row and the 25 column (Right side).
 
 6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
+
+➢ **Explanation** <br>
+This circuit is simple enough to visually see what is going on, but there are still some things that I'd like to point out to explain a little bit more.
 
 ## Programming the Code
 For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
