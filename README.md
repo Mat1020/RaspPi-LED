@@ -1,7 +1,7 @@
 # Controlling LED with Raspberry Pi GPIO
 A repositorie to control any color or more than one LED with your Raspberry Pi. From this repositorie, it'll guide and teach you from everything you need to know about LEDs. From how to get started with LEDs with your Raspberry Pi in a begginer project, to how to do fancy circuits with LEDs with your Raspberry Pi, all in step-by-step.
 
-This repositorie should be compadable to every version of Raspberry Pi. 
+This repositorie should be compadable to every version of Raspberry Pi.
 
 Without any further do, let's dive in! :D
 
@@ -88,11 +88,11 @@ Finally, we have the LED. The LED is being powered by the 100 ohm resistor on th
 ## Programming the Code
 For this project, we would be learning **2 commands** for the LED. 
 
-| Command | Description | Module/Library |
-|-----------|-----------|----------|
-| .on() | Turns the LED on | gpiozero, Python |
-| .off() | Turns the LED off | gpiozero, Python  |
-| .toggle() | Switches the LED to its opposite state (on if it was off, and off if it was on) | gpiozero, Python  |
+| Command | Description | Module/Library | Programming Language | 
+|-----------|-----------|----------|----------| Python |
+| .on() | Turns the LED on | gpiozero | Python |
+| .off() | Turns the LED off | gpiozero | Python |
+| .toggle() | Switches the LED to its opposite state (on if it was off, and off if it was on) | gpiozero | Python |
 
 
 You need to import the LED module:
