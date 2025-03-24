@@ -89,7 +89,7 @@ Finally, we have the LED. The LED is being powered by the 100 ohm resistor on th
 For this project, we would be learning **2 commands** for the LED. 
 
 | Command | Description | Module/Library | Programming Language | 
-|-----------|-----------|----------|----------| Python |
+|-----------|-----------|----------|----------|
 | .on() | Turns the LED on | gpiozero | Python |
 | .off() | Turns the LED off | gpiozero | Python |
 | .toggle() | Switches the LED to its opposite state (on if it was off, and off if it was on) | gpiozero | Python |
