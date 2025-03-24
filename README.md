@@ -86,7 +86,7 @@ Then, we have the resistor. The resistor is crucial for this circuit because it 
 Finally, we have the LED. The LED is being powered by the 100 ohm resistor on the positive leg and by direcly the negative row of the breadboard on the negative leg.
 
 ## Programming the Code
-For this project, we would be learning **2 commands** for the LED. 
+For this project, we would be learning **3 commands** for the LED (even though we'd only using 2).
 
 | Command | Description | Module/Library | Programming Language | 
 |-----------|-----------|----------|----------|
