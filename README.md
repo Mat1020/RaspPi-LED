@@ -86,7 +86,13 @@ Then, we have the resistor. The resistor is crucial for this circuit because it 
 Finally, we have the LED. The LED is being powered by the 100 ohm resistor on the positive leg and by direcly the negative row of the breadboard on the negative leg.
 
 ## Programming the Code
-For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
+For this project, we would be learning **2 commands** for the LED. 
+
+| Command | Description | Module/Library |
+|-----------|-----------|----------|
+| .on() | Data 2    | gpiozero, Python |
+| .off() | Data 5    | gpiozero, Python  |
+
 
 You need to import the LED module:
 <pre>
