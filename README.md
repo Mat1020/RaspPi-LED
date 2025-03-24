@@ -77,11 +77,13 @@ Keep in mind that **you should play and mess with it**, meaning that **you shoul
 6. Grab your resistor and connect it to the positive row and the 25 column (Right Side).
 
 ➢ **Explanation** <br>
-This circuit is simple enough to visually see what is going on, but there are still some things that I'd like to point out to explain a little bit more.
+This circuit is simple enough to visually see what is going on, but beginners may find it challenging to understand.
 
-As you can notice, the LED is connected to positive and negative energies to light up the LED, but there's a resistor in the way of one of the energies. This is because **the LED can't handle all the energy, meaning that it would damage the LED**, possible leading to not working. Instead, use a **resistor** (type of resistor depends on the resistance, power rating, and other factors of the circuit) **to limit the current flowing through the LED**.
+The male/female jumpers (or wires) are connected to GND pina and GPIO 17 pin. The GND pin stands for _ground pin_, which basicly what it does it's to provide a **unstopable power scource**. In contrast, the GPIO 17 acts like a power scource that can be controll (one of the many uses). The GND pin is connected to the negative row of the breadboard (providing negative energy) and the GPIO 17 is connected to the positive row of the breadboard (providing positive energy).
 
-From the Raspberry Pi GPIO Pins, we're using GND and GPIO 17 pins. The GND pin stand for _ground pin_, which it basicly means it's a **power scource**. In contrast, the GPIO 17 pin can be used for **multiple functions**. It can be used for 
+Then, we have the resistor. The resistor is crucial for this circuit because it limits the current flowing through the LED so the LED can't get damage over time. The type of resistor is 100 ohm, but the type of resistor depends on the resistance, power rating, and other factors of the circuit.
+
+Finally, we have the LED. The LED is
 
 ## Programming the Code
 For this project's code, we'll be using **Python** and the **gpiozero module**. We'll be using **3 commands** 
