@@ -90,8 +90,9 @@ For this project, we would be learning **2 commands** for the LED.
 
 | Command | Description | Module/Library |
 |-----------|-----------|----------|
-| .on() | Data 2    | gpiozero, Python |
-| .off() | Data 5    | gpiozero, Python  |
+| .on() | Turns the LED on | gpiozero, Python |
+| .off() | Turns the LED off | gpiozero, Python  |
+| .toggle() | Switches the LED to its opposite state (on if it was off, and off if it was on) | gpiozero, Python  |
 
 
 You need to import the LED module:
